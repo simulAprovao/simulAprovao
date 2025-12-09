@@ -1,4 +1,4 @@
-#SimulAprovão# <br>
+#SimulAprovão <br>
 Maria Helena Araújo de Sousa, Kamilly Victoria Oliveira Lima.<br>
 ETEC Taboão da Serra <br>
 Projeto criado para avaliação da materia de Tecnicas de Programação e Algoritmos (TPA), ministrada pela professora Alicia Stefany.
